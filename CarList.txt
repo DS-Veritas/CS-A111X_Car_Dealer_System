@@ -1,0 +1,19 @@
+ModelName, Description, RegisterID, Price
+BMW 325i Cabrio A, Gray metallic convertible car, ABC-123, 3000
+Volkswagen Golf Cabriolet, Blue metallic convertible car, XYZ-987, 3000
+Chrysler Stratus Cabrio A, Blue metallic convertible car, DYD-473, 3390
+Peugeot 206 Cabriolet, Silver metallic convertible car, UEF-363, 3490
+Opel Tigra Sport TwinTop, Blue metallic convertible car, DFE-473, 3500
+Fiat Barchetta, Blue metallic convertible car, YFD-175, 3590
+Toyota MR2, Blue metallic convertible car, DFH-647, 3600
+Smart Fortwo Cabrio, Yellow convertible car, JDV-236, 3800
+Mazda MX-5, Black convertible car, YFN-843, 4150
+Chrysler Stratus Cabrio A, Blue metallic convertible car, HJC-673, 4200
+Chevrolet Camaro Targa V8, Red convertible car, UFC-364, 4699
+Alfa Romeo Spider Spark, Black convertible car, HDC-734, 4700
+KIA Ceed EX, Silver station wagon car, FNN-442, 4900
+Ford Mondeo 2.0 TDCi, White station wagon car, PTO-963, 9900
+Audi S3 Compact Coupe 2.0 TFSI, Gray metallic hatchback car, DIR-346, 13200
+Ford C-MAX Grand 2.0 TDCi, Gray metallic mpv car, HFK-356, 14900
+Volvo V70 T6 AWD, Black station wagon car, VSW-697, 17900
+Mercedes-Benz C 220 d T Exclusive, Brown metallic station wagon car, YRS-634, 28390
